@@ -1,0 +1,8 @@
+{
+  "name": "QuickGrocery AI Support",
+  "description": "Professional AI assistant for explaining logistics, delivery stages, and order workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
